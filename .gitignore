@@ -1,0 +1,5 @@
+*.o
+*.llvm
+*.dat
+*.exe
+Test/Generate/*
